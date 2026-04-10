@@ -5,7 +5,7 @@
 
 ## About Me
 <p>
-  "I bridge the gap between responsive front-end interfaces and intelligent, data-driven backends, turning complex machine learning models into seamless user experiences."
+  "I bridge the gap between responsive front-end interfaces and intelligent, data driven backends, turning complex machine learning models into seamless user experiences."
 </p>
 <p>"Crafting intuitive web apps | Training models in Python | Bringing AI to the browser"</p>
 
