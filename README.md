@@ -31,6 +31,7 @@
 |    Title    |   Description   | Technologies Used   |   Link   |
 |:-----------:|:---------------:|:-------------------:|:--------:|
 | _*Expent*_ | AI-powered expense-tracking and budgeting platform | React , TailwindCSS | <a href='https://github.com/anon-public/expense_tracking'>Repo Link</a> |
+| _*Cloud-Based Local AI*_ | Private AI Setup by using cloud resources | Google Colab, Cloudflare , Python , Ollama , Open WEBUI | <a href='https://github.com/anon-public/Cloud-Based-Local-AI' >Repo Link</a> | 
 | _*Salifort Motor Analysis*_ | Predicted employee churn by ML models| Python , Jupiter Notebook | <a href= 'https://github.com/anon-public/salifort_motors_analysis'>Repo Link</a> |
 | _*Invistico Airlines Analysis*_ | Predicted customer satisfaction by ML models |Python,Jupiter Notebook|<a href='https://github.com/anon-public/invistico_airlines_analysis-ML-'>Repo Link</a>|
 
