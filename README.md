@@ -1,13 +1,13 @@
-## 👋 Hi I'm anon-public,
+## 👋 Hi I'm **Abdullah Riaz**,
 
-<p>I'm currently working on AI-powered Web Apps</p>
-<p>Creating own ML models to boost the capabilities of Web Apps</p>
+<p>I'm currently working on AI-powered Web and responsive Mobile Apps</p>
+<p>Creating own ML models to boost the capabilities of Web and Cross platform Mobile Apps</p>
 
 ## About Me
 <p>
   "I bridge the gap between responsive front-end interfaces and intelligent, data driven backends, turning complex machine learning models into seamless user experiences."
 </p>
-<p>"Crafting intuitive web apps | Training models in Python | Bringing AI to the browser"</p>
+<p>"Crafting intuitive applications | Training models in Python | Bringing AI to the local machines"</p>
 
 ## Tech Stack
 * ### FrontEnd:
