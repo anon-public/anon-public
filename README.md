@@ -1,17 +1,13 @@
-
-
-
 ## 👋 Hi I'm **Abdullah Riaz**,
 <div align="left">
   <img src="./fade-text.svg" alt="Fading Text" />
 </div>
+
+## About Me
 <p>
   I bridge the gap between responsive front-end interfaces and intelligent, data driven backends, turning complex machine learning models into seamless user experiences.
   I'm currently working on AI-powered Web and responsive Mobile Apps
 </p>
-
-## About Me
-
 <div align="center" background-color='#66ccff'>
   <kbd>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00c5ff&center=true&vCenter=true&width=435&lines=ML+to+Boost+Capabilities+of+Mobile+Apps;Crafting+intuitive+applications;Training+models+in+Python;Bringing+AI+to+local+machines;" alt="Typing SVG" />
@@ -20,13 +16,6 @@
 
 ## Tech Stack
 * ### FrontEnd:
-<div align="center">
-  <kbd>
-  <img src="./tech-stack.svg" alt="Tech Stack" />
-  </kbd>
-</div>
-
-
     * ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
     * ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     * [![React](https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
@@ -34,13 +23,6 @@
     * [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 * ### BackEnd And DB:
-
-<div align="center">
-  <kbd>
-  <img src="./tech-stack" alt="Tech Stack" />
-  </kbd>
-</div>
-
     * ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
     * [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
     * [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
@@ -50,12 +32,6 @@
     * [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 * ### AI And Data:
-<div align="center">
-  <kbd>
-  <img src="./frontend-stack.svg" alt="Frontend Stack" />
-  </kbd>
-</div>
-
     * [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
     * [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
     * [![Machine Learning](https://img.shields.io/badge/Machine_Learning-4B5563?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning)
