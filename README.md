@@ -1,13 +1,21 @@
-## 👋 Hi I'm **Abdullah Riaz**,
 
-<p>I'm currently working on AI-powered Web and responsive Mobile Apps</p>
-<p>Creating own ML models to boost the capabilities of Web and Cross platform Mobile Apps</p>
+
+
+## 👋 Hi I'm **Abdullah Riaz**,
+<div align="center">
+  <img src="./fade-text.svg" alt="Fading Text" />
+</div>
+<p>
+  I bridge the gap between responsive front-end interfaces and intelligent, data driven backends, turning complex machine learning models into seamless user experiences.
+  I'm currently working on AI-powered Web and responsive Mobile Apps
+</p>
 
 ## About Me
-<p>
-  "I bridge the gap between responsive front-end interfaces and intelligent, data driven backends, turning complex machine learning models into seamless user experiences."
-</p>
-<p>"Crafting intuitive applications | Training models in Python | Bringing AI to the local machines"</p>
+
+<div align="center" background-color='#66ccff'>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00c5ff&center=true&vCenter=true&width=435&lines=Using+ML+to+boost+the+capabilities+of+Web+and+Cross+platform+Mobile+Apps;Crafting+intuitive+applications;Training+models+in+Python;Bringing+AI+to+local+machines;" alt="Typing SVG" />
+</div>
+
 
 ## Tech Stack
 * ### FrontEnd:
