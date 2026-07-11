@@ -1,0 +1,55 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220">
+  <rect width="100%" height="100%" fill="#1A1B27" rx="10" />
+
+  <g transform="translate(0, 20)">
+    <text x="20" y="20" fill="#8892b0" font-family="-apple-system, monospace" font-size="20" font-weight="bold">FrontEnd:</text>
+    
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="800 0" to="-800 0" dur="15s" repeatCount="indefinite" />
+      
+      <image href="https://img.shields.io/badge/Expo-000020?style=for-the-badge&amp;logo=expo&amp;logoColor=white" x="0" y="35" width="100" height="28" />
+      <image href="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" x="120" y="35" width="90" height="28" />
+      <image href="https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&amp;logo=react" x="230" y="35" width="140" height="28" />
+      <image href="https://img.shields.io/badge/Next.js-black?style=for-the-badge&amp;logo=next.js" x="390" y="35" width="90" height="28" />
+      <image href="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" x="390" y="35" width="90" height="28" />
+    </g>
+  </g>
+
+  <g transform="translate(0, 110)">
+    <text x="20" y="20" fill="#8892b0" font-family="-apple-system, monospace" font-size="20" font-weight="bold">BackEnd And DB:</text>
+    
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="1000 0" to="-1300 0" dur="25s" repeatCount="indefinite" />
+      
+      <image href="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" x="0" y="35" width="100" height="28" />
+      
+      <image href="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" x="115" y="35" width="100" height="28" />
+      
+      <image href="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" x="230" y="35" width="115" height="28" />
+      
+      <image href="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" x="360" y="35" width="110" height="28" />
+      
+      <image href="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" x="485" y="35" width="115" height="28" />
+      
+      <image href="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" x="615" y="35" width="110" height="28" />
+      
+      <image href="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" x="740" y="35" width="130" height="28" />
+    </g>
+  </g>
+  <g transform="translate(0, 110)">
+    <text x="20" y="20" fill="#8892b0" font-family="-apple-system, monospace" font-size="20" font-weight="bold">AI And Data:</text>
+    
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="-800 0" to="800 0" dur="18s" repeatCount="indefinite" />
+      
+      <image href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" x="885" y="35" width="95" height="28" />
+      
+      <image href="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" x="995" y="35" width="70" height="28" />
+      
+      <image href="https://img.shields.io/badge/Machine_Learning-4B5563?style=for-the-badge" x="1080" y="35" width="160" height="28" />
+    </g>
+  </g>
+
+  
+</svg>
