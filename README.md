@@ -7,6 +7,7 @@
 <p>
   I bridge the gap between responsive front-end interfaces and intelligent, data driven backends, turning complex machine learning models into seamless user experiences.
   I'm currently working on AI-powered Web and responsive Mobile Apps
+  Portfolio: https://https://abdullah-riaz-portfolio.pages.dev
 </p>
 <div align="center" background-color='#66ccff'>
   <kbd>
