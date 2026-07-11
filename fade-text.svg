@@ -1,13 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="100">
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="50">
   <style>
     .fade {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-      font-size: 32px;
+      font-size: 16px;
       font-weight: 600;
-      fill: #2f80ed; /* Change this hex code for different colors */
+      fill: #00498D;
       opacity: 0;
-      /* The animation: 4 seconds total, ease-in-out curve, loops forever */
-      animation: fadeInOut 4s ease-in-out infinite;
     }
 
     @keyframes fadeInOut {
